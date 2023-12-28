@@ -1,0 +1,107 @@
+.ques{
+	padding: 20px;
+	background-color: #000000;
+	color: #ffffff;
+	cursor: pointer;
+}
+.answ{
+	padding: 20px;
+	background-color: #808080;
+	color: #ffffff;
+	display: none;
+}
+.ques1{
+	padding: 20px;
+	background-color: green;
+	color: #ffffff;
+	cursor: pointer;
+}
+.down{
+	padding: 20px;
+	background-color: #808080;
+	color: #ffffff;
+	display: none;
+}
+.ques2{
+	padding: 20px;
+	background-color: blue;
+	color: #ffffff;
+	cursor: pointer;
+}
+.slideup{
+	padding: 20px;
+	background-color: #808080;
+	color: #ffffff;
+}
+.box1{
+	width:80px;
+	height:80px;
+	display:none;
+	background-color:red;
+}
+.box2{
+	width:80px;
+	height:80px;
+	display:none;
+	background-color:green;
+}
+.box3{
+	width:80px;
+	height:80px;
+	display:none;
+	background-color:blue;
+}
+.box4{
+	width:80px;
+	height:80px;
+	background-color:red;
+}
+.box5{
+	width:80px;
+	height:80px;
+	background-color:green;
+}
+.box6{
+	width:80px;
+	height:80px;
+	background-color:blue;
+}
+.box7{
+	width:80px;
+	height:80px;
+	background-color:red;
+}
+.box8{
+	width:80px;
+	height:80px;
+	background-color:green;
+}
+.box9{
+	width:80px;
+	height:80px;
+	background-color:blue;
+}
+.box10{
+	width:80px;
+	height:80px;
+	background-color:red;
+}
+.box11{
+	width:80px;
+	height:80px;
+	background-color:green;
+}
+.box12{
+	width:80px;
+	height:80px;
+	background-color:blue;
+}
+.p {
+    color: red;
+    margin: 5px;
+    cursor: pointer;
+  }
+  .p:hover{
+    background-color: green;
+    width: 30%;
+  }
